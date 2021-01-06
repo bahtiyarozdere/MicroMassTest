@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../.vs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BahtiyarzAmazingService/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BahtiyarzAmazingService/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BildirimServis/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BildirimServis/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BurhansService/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BurhansService/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Satis.Abstractions/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Satis.Abstractions/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Satis/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Satis/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
